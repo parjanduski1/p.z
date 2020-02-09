@@ -1,0 +1,17 @@
+Package: com.parjanduski1.deb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChip
+Installed-Size: 372
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: debs/HomeHijack.deb
+Size: 95682
+MD5sum: b116159027c6dda5199f9c50b454d350
+SHA1: 549c2b166ff20fbc8424fe754ceb3c464015b570
+SHA256: b6f5f16d0513483e5f8faf8157243a8a20b771be71620b78aa6d80ce7cae7b66
+Section: Tweaks
+Description: Get rid of the annoying Siri, and use something worthwhile!
+Author: MidnightChip
+Depiction: https://repo.auxiliumdev.com/depictions/?p=HomeHijack
+Icon: file:///Library/PreferenceBundles/homehijackpreferences.bundle/icon.png
+Name: HomeHijack
